@@ -1,0 +1,12 @@
+Source: ros-crystal-rqt-publisher
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-crystal-ament-cmake, ros-crystal-ros-workspace
+Homepage: http://wiki.ros.org/rqt_publisher
+Standards-Version: 3.9.2
+
+Package: ros-crystal-rqt-publisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-catkin-pkg-modules, ros-crystal-python-qt-binding (>= 0.2.19), ros-crystal-qt-gui-py-common, ros-crystal-rqt-gui, ros-crystal-rqt-gui-py, ros-crystal-rqt-py-common, ros-crystal-ros-workspace
+Description: rqt_publisher provides a GUI plugin for publishing arbitrary messages with fixed or computed field values.
