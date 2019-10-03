@@ -1,0 +1,12 @@
+Source: ros-dashing-rqt-publisher
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-ament-cmake, ros-dashing-ros-workspace
+Homepage: http://wiki.ros.org/rqt_publisher
+Standards-Version: 3.9.2
+
+Package: ros-dashing-rqt-publisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-catkin-pkg-modules, ros-dashing-python-qt-binding (>= 0.2.19), ros-dashing-qt-gui-py-common, ros-dashing-rqt-gui, ros-dashing-rqt-gui-py, ros-dashing-rqt-py-common, ros-dashing-ros-workspace
+Description: rqt_publisher provides a GUI plugin for publishing arbitrary messages with fixed or computed field values.
