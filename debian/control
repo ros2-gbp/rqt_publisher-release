@@ -1,0 +1,12 @@
+Source: ros-galactic-rqt-publisher
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ros-workspace, python3-all, python3-setuptools
+Homepage: http://wiki.ros.org/rqt_publisher
+Standards-Version: 3.9.2
+
+Package: ros-galactic-rqt-publisher
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, python3-catkin-pkg-modules, ros-galactic-python-qt-binding (>= 0.2.19), ros-galactic-qt-gui-py-common, ros-galactic-rqt-gui, ros-galactic-rqt-gui-py, ros-galactic-rqt-py-common, ros-galactic-ros-workspace
+Description: rqt_publisher provides a GUI plugin for publishing arbitrary messages with fixed or computed field values.
