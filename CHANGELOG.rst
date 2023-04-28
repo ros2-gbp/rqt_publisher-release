@@ -2,6 +2,9 @@
 Changelog for package rqt_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.7.0 (2023-04-28)
+------------------
+
 1.6.3 (2023-04-11)
 ------------------
 * Changes the use of __slots_\_ for the field and field type getter
