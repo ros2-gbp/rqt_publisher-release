@@ -2,6 +2,13 @@
 Changelog for package rqt_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.7.2 (2024-03-28)
+------------------
+* Use raw strings for regular expressions. (`#44 <https://github.com/ros-visualization/rqt_publisher/issues/44>`_)
+* Switch maintainer to me. (`#43 <https://github.com/ros-visualization/rqt_publisher/issues/43>`_)
+* Update maintainer list in package.xml files (`#42 <https://github.com/ros-visualization/rqt_publisher/issues/42>`_)
+* Contributors: Chris Lalancette, Michael Jeronimo
+
 1.7.1 (2024-02-07)
 ------------------
 * Add in a test dependency on pytest. (`#41 <https://github.com/ros-visualization/rqt_publisher/issues/41>`_)
