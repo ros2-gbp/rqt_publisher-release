@@ -2,6 +2,9 @@
 Changelog for package rqt_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.8.0 (2024-04-26)
+------------------
+
 1.7.2 (2024-03-28)
 ------------------
 * Use raw strings for regular expressions. (`#44 <https://github.com/ros-visualization/rqt_publisher/issues/44>`_)
