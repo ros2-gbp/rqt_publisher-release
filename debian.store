@@ -1,1 +1,1 @@
-{"base": "00f428f", "parent": "debian/rolling/rqt_publisher", "previous": "7063bd9", "trim": "", "trimbase": ""}
+{"base": "6e73d5ddda16", "parent": "debian/kilted/rqt_publisher", "previous": "7227e74850ce", "trim": "", "trimbase": ""}
