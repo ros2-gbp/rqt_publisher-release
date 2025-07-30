@@ -2,6 +2,11 @@
 Changelog for package rqt_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.10.1 (2025-07-30)
+-------------------
+* fix setuptools deprecations (`#52 <https://github.com/ros-visualization/rqt_publisher/issues/52>`_)
+* Contributors: mosfet80
+
 1.10.0 (2025-04-28)
 -------------------
 
