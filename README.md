@@ -1,3 +1,26 @@
+## rqt_publisher (rolling) - 1.10.1-1
+
+The packages in the `rqt_publisher` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rqt_publisher` on `Wed, 30 Jul 2025 11:56:02 -0000`
+
+The `rqt_publisher` package was released.
+
+Version of package(s) in repository `rqt_publisher`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_publisher.git
+- release repository: https://github.com/ros2-gbp/rqt_publisher-release.git
+- rosdistro version: `1.10.0-1`
+- old version: `1.10.0-1`
+- new version: `1.10.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_publisher (rolling) - 1.10.0-1
 
 The packages in the `rqt_publisher` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release rqt_publisher -r rolling` on `Mon, 28 Apr 2025 21:44:16 -0000`
