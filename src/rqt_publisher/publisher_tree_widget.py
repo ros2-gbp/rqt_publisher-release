@@ -32,10 +32,9 @@ from python_qt_binding.QtCore import Signal, Slot
 from python_qt_binding.QtGui import QIcon
 from python_qt_binding.QtWidgets import QAction
 
-from rqt_py_common.item_delegates import SpinBoxDelegate
-from rqt_py_common.message_tree_widget import MessageTreeWidget
-
 from .publisher_tree_model import PublisherTreeModel
+from rqt_py_common.message_tree_widget import MessageTreeWidget
+from rqt_py_common.item_delegates import SpinBoxDelegate
 
 
 class PublisherTreeWidget(MessageTreeWidget):

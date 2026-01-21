@@ -2,23 +2,17 @@
 Changelog for package rqt_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.10.1 (2025-07-30)
--------------------
-* fix setuptools deprecations (`#52 <https://github.com/ros-visualization/rqt_publisher/issues/52>`_)
-* Contributors: mosfet80
-
-1.10.0 (2025-04-28)
--------------------
-
-1.9.0 (2024-12-20)
+1.7.3 (2026-01-21)
 ------------------
-* Add in the remaining standard ament_python tests. (`#49 <https://github.com/ros-visualization/rqt_publisher/issues/49>`_)
-* Add in LICENSE. (`#46 <https://github.com/ros-visualization/rqt_publisher/issues/46>`_)
-* Remove CODEOWNERS (`#47 <https://github.com/ros-visualization/rqt_publisher/issues/47>`_)
-* Contributors: Alejandro Hernández Cordero, Chris Lalancette
-
-1.8.0 (2024-04-26)
-------------------
+* fix setuptools deprecations (backport `#52 <https://github.com/ros-visualization/rqt_publisher/issues/52>`_) (`#54 <https://github.com/ros-visualization/rqt_publisher/issues/54>`_)
+  fix setuptools deprecations (`#52 <https://github.com/ros-visualization/rqt_publisher/issues/52>`_)
+  (cherry picked from commit b64a99c25a351645284e2880999cab3f32ea5512)
+  Co-authored-by: mosfet80 <10235105+mosfet80@users.noreply.github.com>
+* Remove CODEOWNERS (backport `#47 <https://github.com/ros-visualization/rqt_publisher/issues/47>`_) (`#48 <https://github.com/ros-visualization/rqt_publisher/issues/48>`_)
+  Remove CODEOWNERS (`#47 <https://github.com/ros-visualization/rqt_publisher/issues/47>`_)
+  (cherry picked from commit ee9cb5d8fce08c87c52e63e695fc5aecca7b8192)
+  Co-authored-by: Alejandro Hernández Cordero <ahcorde@gmail.com>
+* Contributors: mergify[bot]
 
 1.7.2 (2024-03-28)
 ------------------
