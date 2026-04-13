@@ -59,6 +59,9 @@
        <property name="editable">
         <bool>true</bool>
        </property>
+       <property name="sizeAdjustPolicy">
+        <enum>QComboBox::AdjustToMinimumContentsLength</enum>
+       </property>
       </widget>
      </item>
      <item>
@@ -87,6 +90,9 @@
        </property>
        <property name="editable">
         <bool>true</bool>
+       </property>
+       <property name="sizeAdjustPolicy">
+        <enum>QComboBox::AdjustToMinimumContentsLength</enum>
        </property>
       </widget>
      </item>
